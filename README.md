@@ -49,13 +49,6 @@ I am a BSc IT student passionate about Python programming and Web Development. I
 ![](https://nirzak-streak-stats.vercel.app/?user=Shubhams1712&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhams1712&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shubhams1712&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhams1712&layout=compact&theme=tokyonight"/>
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhams1712&theme=tokyo-night"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You&fontAlign=50&fontColor=ffffff&animation=fadeIn&descAlign=59&fontSize=40&fontAlignY=65&section=footer">
