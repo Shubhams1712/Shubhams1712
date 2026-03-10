@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20There!%20Shubham%20Here&fontAlign=50&fontColor=ffffff&animation=fadeIn&descAlign=59&fontSize=40&fontAlignY=34&section=header"/>
 
+# 💫 About Me:
+I am a BSc IT student passionate about <strong>Python programming and Web Development</strong>. I enjoy building practical applications, exploring new technologies, and improving my development skills through projects and continuous learning.<br><br>My main focus is on <strong>Python, JavaScript</strong>, and modern web technologies, and I am interested in creating useful tools, automation systems, and web-based applications.<br><br>I regularly work with technologies such as <strong>HTML, CSS, JavaScript, Python, MySQL, Git, and GitHub</strong>. I also enjoy learning about data analysis and software development practices.<br><br>Currently, I am focused on improving my problem-solving skills, software development knowledge, and building professional projects for my portfolio.
+
 # 🌐 Socials:
 <p align="center">
 <a href="https://instagram.com/@_shubhamsingh18_">
@@ -9,10 +12,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
-# 💫 About Me:
-I am a BSc IT student passionate about Python programming and Web Development. I enjoy building practical applications, exploring new technologies, and improving my development skills through projects and continuous learning.<br><br>My main focus is on Python, JavaScript, and modern web technologies, and I am interested in creating useful tools, automation systems, and web-based applications.<br><br>I regularly work with technologies such as <strong>HTML, CSS, JavaScript, Python, MySQL, Git, and GitHub</strong>. I also enjoy learning about data analysis and software development practices.<br><br>Currently, I am focused on improving my problem-solving skills, software development knowledge, and building professional projects for my portfolio.
-
 
 # 💻 Tech Stack:
 ## Languages:
