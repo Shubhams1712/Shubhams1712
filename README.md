@@ -4,6 +4,7 @@
     width="100%"
   />
 </p>
+
 # 💫 About Me:
 I am a BSc IT student passionate about <strong>Python programming and Web Development</strong>. I enjoy building practical applications, exploring new technologies, and improving my development skills through projects and continuous learning.<br><br>My main focus is on <strong>Python, JavaScript</strong>, and modern web technologies, and I am interested in creating useful tools, automation systems, and web-based applications.<br><br>I regularly work with technologies such as <strong>HTML, CSS, JavaScript, Python, MySQL, Git, and GitHub</strong>. I also enjoy learning about data analysis and software development practices.<br><br>Currently, I am focused on improving my problem-solving skills, software development knowledge, and building professional projects for my portfolio.
 
